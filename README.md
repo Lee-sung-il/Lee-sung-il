@@ -4,7 +4,7 @@
 <h3 align="left">저와 소통하세요:</h3>
 <p align="left">
 </p>
-<h3 align="left">언어 및 도구:</h3>
+<h3 align="left">stack:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
