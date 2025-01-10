@@ -1,4 +1,4 @@
-<h1 align="left">hello 👋, I am sungil.</h1>
+<h1 align="left">hello 👋,I am sungil.</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lee-sung-il" alt="lee-sung-il" /></a> </p>
 
