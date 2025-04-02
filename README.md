@@ -40,4 +40,6 @@
     </a>
 </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lee-sung-il&show_icons=true&locale=ko" alt="lee-sung-il" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lee-sung-il&show_icons=true&locale=en&layout=compact" alt="lee-sung-il" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lee-sung-il&show_icons=true&locale=en" alt="lee-sung-il" /></p>
